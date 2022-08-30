@@ -6,36 +6,36 @@
       .titulo-principal__numero
         span.texto-blanco 6
       h1 #[em Software] de efectivo
-    p.mb-5 El #[em software] de gestión de efectivo sobre todo proporciona una vista del efectivo disponible; en otras palabras, puede verificar si una empresa tiene suficiente dinero para cumplir con sus compromisos a corto plazo y tal vez aumentar sus recursos previstos para mitigar el riesgo de enfrentar una escasez de efectivo. Por lo tanto, el software de gestión de efectivo proporciona información en tiempo real sobre los recursos disponibles para que pueda anticipar los requisitos de capital de trabajo (más de una semana, un mes, seis meses, un año) y administrar el negocio de manera óptima. #[b ¡El #[em software] de gestión de efectivo es, por lo tanto, una verdadera herramienta de toma de decisiones!]
+    p.mb-5(data-aos="fade-right") El #[em software] de gestión de efectivo sobre todo proporciona una vista del efectivo disponible; en otras palabras, puede verificar si una empresa tiene suficiente dinero para cumplir con sus compromisos a corto plazo y tal vez aumentar sus recursos previstos para mitigar el riesgo de enfrentar una escasez de efectivo. Por lo tanto, el software de gestión de efectivo proporciona información en tiempo real sobre los recursos disponibles para que pueda anticipar los requisitos de capital de trabajo (más de una semana, un mes, seis meses, un año) y administrar el negocio de manera óptima. #[b ¡El #[em software] de gestión de efectivo es, por lo tanto, una verdadera herramienta de toma de decisiones!]
 
     .d-flex.flex-wrap.align-items-center.mx-auto.mb-5(style="background-color: #F3F7DB; border-top-right-radius: 112px")
-      img.col-xl-4.mb-4.mb-xl-0.m-auto(src="@/assets/curso/temas/tema6/img-1.png" style="max-width: 400px")
-      .py-xl-4.mb-0.col-xl-7.p-4
+      img.col-xl-4.mb-4.mb-xl-0.m-auto(src="@/assets/curso/temas/tema6/img-1.png" data-aos="fade-right" style="max-width: 400px")
+      .py-xl-4.mb-0.col-xl-7.p-4(data-aos="fade-left")
         p El #[em software] de contabilidad, por su parte, se utiliza especialmente, como su nombre indica, para la contabilidad, puede ser adaptado o desarrollado por la propia empresa o puede obtenerse de un proveedor, generalmente realiza tareas contables básicas, como la contabilidad de compras y ventas, extractos bancarios y tarjetas, activos fijos adquiridos o enajenados, asientos de fin de año y divulgaciones contables (balance, cuenta de resultados, etc.).
           br
           br
           |La elección del #[em software] de gestión de efectivo es un paso importante en la gestión de un negocio, peropor qué se debería optar por un #[em software] de gestión de efectivo cuando ya se pueden hacer muchos cálculos con una hoja de Excel. 
       img.d-none.d-xl-flex.col-xl-1.mb-auto(src="@/assets/curso/temas/tema6/decorador.svg" style="max-width: 82px")
     
-    p.mb-5 Excel es una gran herramienta para preparar un plan de negocios y pronosticar costos e ingresos antes de iniciar un negocio. Pero, una vez que está en funcionamiento, pronto comienza a mostrar sus límites. Esta hoja de cálculo es una fuente de errores recurrentes, principalmente, porque es compleja, lleva mucho tiempo y es estresante de construir. A menudo es difícil hacerlo legible y desarrollar una visión consolidada de su negocio manteniendo el nivel de detalle que necesita para administrar su empresa con confianza.
+    p.mb-5(data-aos="fade-right") Excel es una gran herramienta para preparar un plan de negocios y pronosticar costos e ingresos antes de iniciar un negocio. Pero, una vez que está en funcionamiento, pronto comienza a mostrar sus límites. Esta hoja de cálculo es una fuente de errores recurrentes, principalmente, porque es compleja, lleva mucho tiempo y es estresante de construir. A menudo es difícil hacerlo legible y desarrollar una visión consolidada de su negocio manteniendo el nivel de detalle que necesita para administrar su empresa con confianza.
 
     h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Ca]racterísticas del software de gestión de efectivo
-    p.mb-5 Aquí se menciona una lista de características que se deben tener en cuenta para la elección del software de administración de efectivo:
+    p.mb-5(data-aos="fade-right") Aquí se menciona una lista de características que se deben tener en cuenta para la elección del software de administración de efectivo:
 
     .d-flex.flex-wrap.mb-5.w-100
-      .card-left.p-4.p-xl-5
+      .card-left.p-4.p-xl-5(data-aos="fade-right")
         img.mb-4.mx-auto(src='@/assets/curso/temas/tema6/img-2.svg' style="max-width: 68px;")
         p.mb-4 #[b Seguimiento de entradas y salidas, donde y cuando sea necesario]
           br
           |El software de gestión de efectivo debería permitir ver los flujos de efectivo reales y tener información en tiempo real dondequiera que se esté. 
 
-      .card-midle.p-4.p-xl-5
+      .card-midle.p-4.p-xl-5(data-aos="fade")
         img.mb-4.mx-auto(src='@/assets/curso/temas/tema6/img-3.svg' style="max-width: 68px;")
         p.mb-4 #[b Alertas personalizables]
           br
           |Para administrar la posición de efectivo, se debe poder controlar las condiciones de pago y el sobregiro bancario. Un sistema de alertas cuidadosamente configurado permitirá tomar medidas preventivas a tiempo para evitar problemas.
 
-      .card-right.p-4.p-xl-5
+      .card-right.p-4.p-xl-5(data-aos="fade-left")
         img.mb-4.mx-auto(src='@/assets/curso/temas/tema6/img-4.svg' style="max-width: 68px;")
         p.mb-4 #[b Datos bancarios confiables]
           br
@@ -46,9 +46,9 @@
     .titulo-segundo.color-acento-contenido
       h2#t_6_1 6.1  Procedimientos de registro
 
-    p.mb-5 Cuando una empresa de desarrollo de software en Colombia proporciona software o aplicaciones a las empresas, primero deben registrarlos en la Oficina de Impuestos Internos de la DIAN antes de que puedan comenzar a usarlos oficialmente en sus operaciones. Por lo tanto, cualquier empresa de soluciones de software y los dueños de negocios deben conocer los siguientes procedimientos para solicitar autorización.
+    p.mb-5(data-aos="fade-right") Cuando una empresa de desarrollo de software en Colombia proporciona software o aplicaciones a las empresas, primero deben registrarlos en la Oficina de Impuestos Internos de la DIAN antes de que puedan comenzar a usarlos oficialmente en sus operaciones. Por lo tanto, cualquier empresa de soluciones de software y los dueños de negocios deben conocer los siguientes procedimientos para solicitar autorización.
 
-    SlyderA.col-xl-10.mx-auto.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-right")
+    SlyderA.col-xl-10.mx-auto.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-left")
       .d-flex.flex-wrap.align-items-center.col-xl-11.mx-auto
         .col-md-6
           figure
@@ -116,23 +116,23 @@
     .titulo-segundo.color-acento-contenido
       h2#t_6_2 6.2 El cuadre en operaciones contables
 
-    p.mb-5 La contabilidad operativa se ocupa de los aspectos financieros de la gestión de una empresa. Las tres áreas principales de enfoque son la planificación, la dirección y el control. Un contador operativo analiza el impacto de las actividades diarias de la empresa en el balance general y revisa los procesos contables actuales para encontrar áreas problemáticas o ineficiencias. Para proyecciones futuras, el contador puede ejecutar informes para probar posibles escenarios antes de que la gerencia tome una decisión final. Según el tamaño de la empresa, el contador operativo puede ser un empleado interno o trabajar como contratista independiente. 
+    p.mb-5(data-aos="fade-right") La contabilidad operativa se ocupa de los aspectos financieros de la gestión de una empresa. Las tres áreas principales de enfoque son la planificación, la dirección y el control. Un contador operativo analiza el impacto de las actividades diarias de la empresa en el balance general y revisa los procesos contables actuales para encontrar áreas problemáticas o ineficiencias. Para proyecciones futuras, el contador puede ejecutar informes para probar posibles escenarios antes de que la gerencia tome una decisión final. Según el tamaño de la empresa, el contador operativo puede ser un empleado interno o trabajar como contratista independiente. 
       br
       br
       |A continuación, se expone en qué consiste el cuadre en operaciones contables.
     .d-flex.flex-wrap.align-items-center
-      LineaTiempoD.color-secundario.col-xl-8.order-2.order-xl-1.linea-t-edit.pe-xl-4
+      LineaTiempoD.color-secundario.col-xl-8.order-2.order-xl-1.linea-t-edit.pe-xl-4(data-aos="fade-right")
         p(numero="1" titulo="Praesent luctus") La parte de planificación de la contabilidad operativa utiliza las tendencias históricas de la empresa para predecir el rendimiento futuro. El contador operativo prepara informes reales de ingresos y gastos de los últimos períodos contables. Un análisis completo también puede requerir desgloses por departamento, proyecto o tipo de costo.
         p(numero="2" titulo="Praesent luctus") Las actividades de dirección implican la supervisión de los empleados y cómo ayudan a la empresa a alcanzar sus objetivos financieros. Un gerente usa datos del contador operativo para manejar problemas de asignación de recursos, como establecer horarios de horas extra, transferir empleados entre departamentos y ordenar materias primas.
         p(numero="3" titulo="Praesent luctus") En la fase de control, las actividades de la empresa se revisan y comparan con los planes originales. El contador preparará informes que muestren los números reales y las proyecciones de métricas clave. Según los objetivos de su empresa, estos informes pueden incluir presupuestos, rendimiento de fabricación o nuevos clientes adquiridos.
-      img.order-1.order-xl-2.col-xl-4.mb-4.mb-xl-0.mx-auto(src='@/assets/curso/temas/tema6/img-9.svg' style="max-width: 400px")
+      img.order-1.order-xl-2.col-xl-4.mb-4.mb-xl-0.mx-auto(src='@/assets/curso/temas/tema6/img-9.svg' data-aos="fade-left" style="max-width: 400px")
 
     Separador
 
     .titulo-segundo.color-acento-contenido
       h2#t_6_3 6.3  Manual de los procesos en caja
 
-    p.mb-5 Los procesos que se aplican en el efectivo registran los ingresos una vez que se ha recibido un pago. Como una de las partes más importantes del ciclo del pedido al cobro, la forma en que administra la aplicación de efectivo tiene un profundo impacto en la empresa.
+    p.mb-5(data-aos="fade-right") Los procesos que se aplican en el efectivo registran los ingresos una vez que se ha recibido un pago. Como una de las partes más importantes del ciclo del pedido al cobro, la forma en que administra la aplicación de efectivo tiene un profundo impacto en la empresa.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.col-xl-10.mx-auto.mb-5
       .bloque-texto-g__img(
@@ -144,12 +144,12 @@
           br
           br
           |Los procesos manuales de aplicación de efectivo comprometen esto, ya que son más propensos a errores, consumen más tiempo y recursos. Las empresas más grandes a menudo tienen varios especialistas en contabilidad a tiempo completo que trabajan exclusivamente en la aplicación de efectivo debido al esfuerzo que implica.
-    p.col-xl-10.mx-auto.mb-5 Pero esto está cambiando, según estudios e investigaciones realizadas se encontró que una de las principales prioridades para los líderes financieros cuando se trata de digitalización es el seguimiento de los pagos recibidos y vencidos. 
+    p.col-xl-10.mx-auto.mb-5(data-aos="fade-right") Pero esto está cambiando, según estudios e investigaciones realizadas se encontró que una de las principales prioridades para los líderes financieros cuando se trata de digitalización es el seguimiento de los pagos recibidos y vencidos. 
       br
       br
       |Entonces, se invita a conocer los pasos en el proceso de solicitud de efectivo.
 
-    TabsB.color-acento-contenido.mb-5.tabs-edit
+    TabsB.color-acento-contenido.mb-5.tabs-edit(data-aos="fade-left")
       .py-4.py-md-5(titulo="Paso 1" :icono="require('@/assets/curso/temas/tema6/p-1.svg')")
         .row.p-4.p-xl-5
           p.fw-bold Recibe el pago y la remesa
@@ -180,34 +180,34 @@
     .titulo-segundo.color-acento-contenido
       h2#t_6_4 6.4  Autorizaciones
 
-    p.mb-5 Las transacciones autorizadas toman muchas formas cuando se administra una empresa. Pero ya sea que impliquen la entrada o salida de dinero, la supervisión de transacciones comerciales clave se trata de proteger a la empresa contra el riesgo financiero y los registros contables inexactos. Para ayudar a proteger la empresa a medida que crece, se debe asegurar de estar al tanto de cuándo y dónde deben realizarse las revisiones transaccionales.
+    p.mb-5(data-aos="fade-right") Las transacciones autorizadas toman muchas formas cuando se administra una empresa. Pero ya sea que impliquen la entrada o salida de dinero, la supervisión de transacciones comerciales clave se trata de proteger a la empresa contra el riesgo financiero y los registros contables inexactos. Para ayudar a proteger la empresa a medida que crece, se debe asegurar de estar al tanto de cuándo y dónde deben realizarse las revisiones transaccionales.
 
-    .d-flex.flex-wrap.align-items-center.mx-auto.mb-5.col-xl-10.mx-auto(style="background-color: #F3F7DB; border-top-right-radius: 112px")
+    .d-flex.flex-wrap.align-items-center.mx-auto.mb-5.col-xl-10.mx-auto(style="background-color: #F3F7DB; border-top-right-radius: 112px" data-aos="fade-left")
       img.col-xl-2.my-auto(src="@/assets/curso/temas/tema6/img-11.svg" style="max-width: 190px")
       .py-xl-4.mb-0.col-lg-9.p-4
         p.mb-0 Una transacción comercial es esencialmente una transacción financiera. Cualquier acción que realice que pueda medirse en dinero (por ejemplo, vender servicios a un cliente a cambio de dinero en efectivo) se considera una transacción financiera y probablemente requiera algún tipo de aprobación. 
       img.d-none.d-xl-flex.col-xl-1.mb-auto(src="@/assets/curso/temas/tema6/decorador.svg" style="max-width: 82px")
 
-    p.mb-5 Las transacciones monetarias inevitablemente impactan la posición financiera. Por lo tanto, es importante verificar la precisión de las actividades comerciales antes de que se registren en sus registros contables. En muchos casos, esa verificación incluirá la autorización de ciertas transacciones en tiempo real.
+    p.mb-5(data-aos="fade-right") Las transacciones monetarias inevitablemente impactan la posición financiera. Por lo tanto, es importante verificar la precisión de las actividades comerciales antes de que se registren en sus registros contables. En muchos casos, esa verificación incluirá la autorización de ciertas transacciones en tiempo real.
 
     .d-flex.flex-wrap.mb-5
-      p.col-xl-8.order-2.order-xl-2.pe-xl-4 Las transacciones autorizadas deben formar parte de los controles contables internos de toda empresa. Como políticas y procedimientos, estos controles están diseñados específicamente para evitar robos, fraudes e informes financieros incorrectos. 
+      p.col-xl-8.order-2.order-xl-2.pe-xl-4(data-aos="fade-right") Las transacciones autorizadas deben formar parte de los controles contables internos de toda empresa. Como políticas y procedimientos, estos controles están diseñados específicamente para evitar robos, fraudes e informes financieros incorrectos. 
         br
         br
         |Se considera el hecho de que cuantas más personas toquen una determinada transacción comercial, mayor será la oportunidad de error o mal manejo del dinero. Luego de pensar la participación de todas las personas en el procesamiento de: compras de la empresa, pagos de facturas y cuentas por pagar, nómina de empleados, venta de bienes o servicios, recibos de punto de venta y cuentas por cobrar del cliente.
         br
         br
         |Además, establecer procesos que prohíban el avance de transacciones no autorizadas sin la autorización adecuada mejorará su seguridad financiera y mitigará las discrepancias contables. Incluso si es un propietario único y maneja muchas de estas tareas por la cuenta, no puede evitar el riesgo potencial que representan los clientes y proveedores sin escrúpulos, incluso los tenedores de libros.
-      img.order-1.order-xl-2.col-xl-4.mx-auto.mb-4.my-xl-auto(src="@/assets/curso/temas/tema6/img-12.jpg" style="max-width: 400px")
+      img.order-1.order-xl-2.col-xl-4.mx-auto.mb-4.my-xl-auto(src="@/assets/curso/temas/tema6/img-12.jpg" data-aos="fade-left" style="max-width: 400px")
 
     div
-      .col-lg-10.mx-auto
+      .col-lg-10.mx-auto.mb-5(data-aos="fade-right")
         .cajon.color-primario.p-4.mb-4
           p No se necesita buscar muy lejos las actividades comerciales que se beneficiarían de una capa adicional de aprobación, ya sea que provenga de un líder de ventas, un gerente o un tenedor de libros. De hecho, es una práctica común que las transacciones financieras pasen por múltiples niveles de autorización antes de que se comprometan con los libros.
 
       .d-flex.flex-wrap.align-items-center.mb-5(style="margin-left: -3rem; margin-right: -3rem; min-width: calc(100% + 6rem); background: linear-gradient(180deg, rgba(255,255,255,1) 0%, #FFF9F4 20%, #FFF9F4 80%, rgba(255,255,255,1) 100%)")
-        img.col-xl-4.mx-auto.mb-4.my-xl-auto(src="@/assets/curso/temas/tema6/img-13.svg" style="max-width: 400px")
-        .col-xl-8.ps-xl-4
+        img.col-xl-4.mx-auto.mb-4.my-xl-auto(src="@/assets/curso/temas/tema6/img-13.svg" data-aos="fade-right" style="max-width: 400px")
+        .col-xl-8.ps-xl-4(data-aos="fade-left")
           p Estas son solo algunas áreas en las que vale la pena implementar transacciones autorizadas:
           ul.lista-ul--color.mb-4(data-aos="fade-left")
             li
@@ -231,7 +231,7 @@
             li
               .mb-auto.mt-2.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
               p.mb-0 Solicitar anulaciones del gerente en transacciones de ventas que excedan una cierta cantidad en dólares o que involucren pagos en efectivo de enorme valor.
-    p.mb-5 También se debe tener en cuenta que, ya sea que la empresa acepte pagos electrónicos en línea, por teléfono o en persona, seguir las mejores prácticas para transacciones autorizadas es especialmente importante para evitar ser víctima de fraude con tarjetas de crédito.
+    p.mb-5(data-aos="fade-right") También se debe tener en cuenta que, ya sea que la empresa acepte pagos electrónicos en línea, por teléfono o en persona, seguir las mejores prácticas para transacciones autorizadas es especialmente importante para evitar ser víctima de fraude con tarjetas de crédito.
 
     h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Fin]alidad de transacciones autorizadas para pagos electrónicos
     .d-flex.flex-wrap.mb-5.w-100(data-aos="fade-left")

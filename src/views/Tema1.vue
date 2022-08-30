@@ -7,14 +7,14 @@
         span.text-white 1
       h1 Pagos electrónicos 
     
-    p.mb-5 Los pagos electrónicos son una forma de realizar transacciones o pagar facturas en línea o a través de un medio electrónico, sin el uso de cheques físicos o efectivo; los métodos más populares de pagos electrónicos incluyen tarjetas de crédito, tarjetas de débito, tarjetas virtuales y ACH (depósito directo, débito directo y cheques electrónicos).
-    .col-xl-10.d-flex.flex-wrap.align-items-center.mx-auto.mb-5(style="background-color: #FFECDC; border-top-left-radius: 47px")
+    p.mb-5(data-aos="fade-right") Los pagos electrónicos son una forma de realizar transacciones o pagar facturas en línea o a través de un medio electrónico, sin el uso de cheques físicos o efectivo; los métodos más populares de pagos electrónicos incluyen tarjetas de crédito, tarjetas de débito, tarjetas virtuales y ACH (depósito directo, débito directo y cheques electrónicos).
+    .col-xl-10.d-flex.flex-wrap.align-items-center.mx-auto.mb-5(style="background-color: #FFECDC; border-top-left-radius: 47px" data-aos="fade-left")
       img.col-lg-3(src="@/assets/curso/temas/tema1/img-1.png" style="max-width: 295px")
       p.mb-0.col-lg-9 Por la existencia de nuevos métodos de pago electrónico, los costos fijos y las tarifas asociadas con los pagos tradicionales, como los cheques, ya no existen, incluidos los gastos de papel, franqueo y mano de obra.
 
-    p.mb-5 Los beneficios de los pagos electrónicos son muy convenientes, tanto para las empresas como para sus proveedores. Por ello, en el contexto de las cuentas por pagar, los pagos electrónicos son beneficiosos para todos porque reducen los costos, mejoran las relaciones, aumentan la visibilidad y brindan mayor seguridad en comparación con los cheques tradicionales; estas ventajas son:
+    p.mb-5(data-aos="fade-right") Los beneficios de los pagos electrónicos son muy convenientes, tanto para las empresas como para sus proveedores. Por ello, en el contexto de las cuentas por pagar, los pagos electrónicos son beneficiosos para todos porque reducen los costos, mejoran las relaciones, aumentan la visibilidad y brindan mayor seguridad en comparación con los cheques tradicionales; estas ventajas son:
 
-    AcordionA.col-xl-10.mx-auto.edit-pestanas(tipo="b")
+    AcordionA.col-xl-10.mx-auto.edit-pestanas(tipo="b" data-aos="fade-right")
       .row.item-edit.col-xl-10.mx-auto(titulo="1. Reducción de costos")
         .col-md-6.mb-4.mb-md-0
           p Cuantos más pagos pueda procesar electrónicamente una empresa, menos gastará en papel y franqueo, junto con el tiempo necesario para imprimir, firmar, rellenar y enviar cheques por correo. 
@@ -48,7 +48,7 @@
     
     h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Los] pros y los contras de los diferentes tipos de pagos electrónicos
 
-    p.mb-5 Debido a que cada negocio y proveedor es diferente, es muy poco probable que una organización use solo un método de pago electrónico en sus cuentas por pagar. A medida que una organización crece y sus procesos se vuelven más complejos, se vuelve cada vez más importante que la empresa no solo adopte los pagos electrónicos como una solución, sino que emplee cuentas por pagar integradas como solución. Por ello, es importante conocer los pro y contras de los pagos electrónicos que se muestran a continuación.
+    p.mb-5(data-aos="fade-right") Debido a que cada negocio y proveedor es diferente, es muy poco probable que una organización use solo un método de pago electrónico en sus cuentas por pagar. A medida que una organización crece y sus procesos se vuelven más complejos, se vuelve cada vez más importante que la empresa no solo adopte los pagos electrónicos como una solución, sino que emplee cuentas por pagar integradas como solución. Por ello, es importante conocer los pro y contras de los pagos electrónicos que se muestran a continuación.
 
     figure.mb-5(data-aos="fade-left")
       .video
@@ -59,9 +59,9 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_1 1.1  Procedimientos transaccionales
     
-    p.mb-5 Cada vez es más común que una empresa pague a un proveedor con un pago electrónico, en lugar de un cheque o en efectivo. Al hacerlo, una empresa puede emitir pagos a un costo más bajo, de manera más eficiente y con menos errores que con los cheques. 
+    p.mb-5(data-aos="fade-right") Cada vez es más común que una empresa pague a un proveedor con un pago electrónico, en lugar de un cheque o en efectivo. Al hacerlo, una empresa puede emitir pagos a un costo más bajo, de manera más eficiente y con menos errores que con los cheques. 
 
-    .col-xl-10.mx-auto.mb-5
+    .col-xl-10.mx-auto.mb-5(data-aos="fade-left")
       .cajon.color-primario.p-4
         p Los tipos de sistemas de pago electrónico incluyen pagos únicos de cliente a proveedor, pagos recurrentes de cliente a proveedor y pagos automáticos de banco a proveedor. A continuación, se ilustra cada uno.
 
@@ -96,22 +96,22 @@
     p.mb-5.text-center Otros tipos populares de transacciones de pago electrónico incluyen:
 
     .d-flex.flex-wrap.mb-5.w-100
-      .card-left.p-4.p-xl-5
+      .card-left.p-4.p-xl-5(data-aos="fade-right")
         img.mb-5.mx-auto(src='@/assets/curso/temas/tema1/img-9.svg' style="max-width: 180px;")
         h2.text-center.mb-5 Cámara de Compensación<br clase="d-none d-lg-flex"> Automatizada (ACH) 
         p.px-lg-5.mx-xl-5.text-center Los pagos ACH transfieren dinero electrónicamente entre cuentas bancarias. Por ejemplo, si desea que el banco de su empresa envíe su pago de $20 por el libro, que ordenó directamente a la cuenta bancaria comercial del proveedor, ese podría ser una transacción ACH.
-      .card-right.p-4.p-xl-5
+      .card-right.p-4.p-xl-5(data-aos="fade-left")
         img.mb-5.mx-auto(src='@/assets/curso/temas/tema1/img-10.svg' style="max-width: 180px;")
         h2.text-center.mb-5 Tarjeta de<br clase="d-none d-lg-flex"> crédito virtual
         p.px-lg-5.mx-xl-5.text-center A diferencia de las tarjetas de crédito convencionales que contienen un código de seguridad y una fecha de vencimiento, en las tarjetas de crédito virtuales el número de la tarjeta nunca se ingresa y su funcionamiento es al iniciar sesión en su portal de banca en línea. Este es un método que brinda una capa adicional de seguridad sobre las tarjetas de crédito estándar.
 
-    p.col-xl-10.mx-auto.mb-5 Los sistemas de pago electrónico funcionan cuando las personas y las tecnologías electrónicas trabajan juntas para mover la información de pago instantáneamente a través de una progresión lógica de pasos, generalmente en solo unos segundos.
+    p.col-xl-10.mx-auto.mb-5(data-aos="fade-right") Los sistemas de pago electrónico funcionan cuando las personas y las tecnologías electrónicas trabajan juntas para mover la información de pago instantáneamente a través de una progresión lógica de pasos, generalmente en solo unos segundos.
     Separador
 
     .titulo-segundo.color-acento-contenido
       h2#t_1_2 1.2  Tipos
 
-    p.mb-5 Los tipos de un sistema de pago electrónico incluyen sistemas de pago de crédito y sistemas de pago en efectivo, se invita a conocer cuáles tipos corresponden a cada sistema así:
+    p.mb-5(data-aos="fade-right") Los tipos de un sistema de pago electrónico incluyen sistemas de pago de crédito y sistemas de pago en efectivo, se invita a conocer cuáles tipos corresponden a cada sistema así:
 
     SlyderA.col-xl-10.mx-auto.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-right")
       .d-flex.flex-wrap.col-xl-10.mx-auto
@@ -174,9 +174,9 @@
               | Efectivo electrónico
           p Es el pago digital que se puede transferir de una cuenta a otra electrónicamente a través de plataformas en línea como PayPal, Apple Pay y Venmo.
 
-    p.mb-5.text-center Ahora bien, ¿cuáles son las ventajas de los sistemas de pago electrónico? En la siguiente información, está la respuesta.
+    p.mb-5.text-center(data-aos="fade-right") Ahora bien, ¿cuáles son las ventajas de los sistemas de pago electrónico? En la siguiente información, está la respuesta.
 
-    ImagenInfografica.color-acento-botones.mb-5
+    ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-left")
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema1/img-16.svg')
@@ -198,7 +198,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_3 1.3  Procedimiento de manejo
 
-    p.mb-5 Para que se logre que una transacción electrónica se aplique seguramente y en la cual se refleja una especificación de seguridad y cifrado de código abierto diseñado para proteger las transacciones con tarjeta de crédito en internet, se debe recordar que una transacción electrónica segura no es un sistema de pago, es un conjunto de protocolos y formatos de seguridad que garantiza que el uso de transacciones de pago en línea en internet sea seguro y proporcione un entorno seguro para todas las partes involucradas en la transacción de comercio electrónico, también garantiza la confidencialidad y genera autenticación a través de certificados digitales. 
+    p.mb-5(data-aos="fade-right") Para que se logre que una transacción electrónica se aplique seguramente y en la cual se refleja una especificación de seguridad y cifrado de código abierto diseñado para proteger las transacciones con tarjeta de crédito en internet, se debe recordar que una transacción electrónica segura no es un sistema de pago, es un conjunto de protocolos y formatos de seguridad que garantiza que el uso de transacciones de pago en línea en internet sea seguro y proporcione un entorno seguro para todas las partes involucradas en la transacción de comercio electrónico, también garantiza la confidencialidad y genera autenticación a través de certificados digitales. 
       br
       br
       |Para realizar el procedimiento como tal, a continuación, se muestra la lista de participantes que están involucrados en el proceso.
@@ -206,8 +206,8 @@
     .titulo-quinto.color-acento-contenido
       h4 Herramientas de limpieza de datos
 
-    LineaTiempoB.col-xl-10.mx-auto.p-4.p-xl-5.linea-edit.color-secundario.mb-5(:datos="datosLineaTiempoB")
-    p.col-xl-10.mb-5.mx-auto Luego de hablar de transacción electrónica segura, se podría definir como el protocolo utilizado por las compañías de tarjetas de crédito para el comercio electrónico que garantiza la seguridad en las transacciones electrónicas y funciona de la siguiente manera.
+    LineaTiempoB.col-xl-10.mx-auto.p-4.p-xl-5.linea-edit.color-secundario.mb-5(:datos="datosLineaTiempoB" data-aos="fade-left")
+    p.col-xl-10.mb-5.mx-auto(data-aos="fade-right") Luego de hablar de transacción electrónica segura, se podría definir como el protocolo utilizado por las compañías de tarjetas de crédito para el comercio electrónico que garantiza la seguridad en las transacciones electrónicas y funciona de la siguiente manera.
 
     LineaTiempoC.linea-c-edit.col-xl-10.mx-auto.color-acento-contenido.p-4.mb-5(text-small style="background-color: #E1F3D7; border-radius: 10px" data-aos="fade-left")
       .row.col-xl-11.mx-auto(titulo="Paso 1")
@@ -298,13 +298,13 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_4 1.4  Tarifas
 
-    p.mb-5 Colombia es el tercer país más grande por población en América Latina y una de las economías de más rápido crecimiento en la región. El comercio electrónico creció 30,6% en 2020 debido a las restricciones relacionadas con la Covid-19, lo que aceleró la adopción de compras y pagos en línea en una variedad de segmentos como moda y belleza, electrónica, muebles y electrodomésticos, música digital y videojuegos.
+    p.mb-5(data-aos="fade-right") Colombia es el tercer país más grande por población en América Latina y una de las economías de más rápido crecimiento en la región. El comercio electrónico creció 30,6% en 2020 debido a las restricciones relacionadas con la Covid-19, lo que aceleró la adopción de compras y pagos en línea en una variedad de segmentos como moda y belleza, electrónica, muebles y electrodomésticos, música digital y videojuegos.
       br
       br
       |La población adulta bancarizada creció 73% en 2020, siendo las tarjetas de crédito y los pagos ACH algunos de los métodos de pago más utilizados en el comercio electrónico, además los métodos de pago en efectivo como Baloto, Efecty y Gana siguen teniendo una importante aceptación entre los compradores. Teniendo en cuenta lo anterior, hay que tener en cuenta lo siguiente:
 
 
-    .d-flex.flex-wrap.p-4.pt-xl-0.pb-xl-4.ps-xl-5.pe-xl-0.mb-5(style="background-color: #FFECDC; border-top-right-radius: 83px")
+    .d-flex.flex-wrap.p-4.pt-xl-0.pb-xl-4.ps-xl-5.pe-xl-0.mb-5(style="background-color: #FFECDC; border-top-right-radius: 83px" data-aos="fade-right")
       .col-xl-8.pt-xl-4.ms-auto.order-2.order-xl-1
         h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Los] pros y los contras de los diferentes tipos de pagos electrónicos
         p.mb-0 Las soluciones convencionales, como las tarjetas de crédito y la banca en línea, populares en los países con una estructura financiera desarrollada, aún no han llegado a la mayoría de la población. Los pagos por teléfono móvil, las opciones de prepago y los depósitos bancarios dominan el panorama.

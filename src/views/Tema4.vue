@@ -7,8 +7,8 @@
         span 4
       h1 Divisas
 
-    p.mb-5 El cambio de divisas (Forex o FX) es la conversión de una moneda a otra a una tasa específica conocida como tasa de cambio de divisas. Las tasas de conversión de casi todas las monedas flotan constantemente, ya que están impulsadas por las fuerzas del mercado de la oferta y la demanda.
-    .mb-5.p-4.py-xl-5(style="background-color: #E5F0E0")
+    p.mb-5(data-aos="fade-right") El cambio de divisas (Forex o FX) es la conversión de una moneda a otra a una tasa específica conocida como tasa de cambio de divisas. Las tasas de conversión de casi todas las monedas flotan constantemente, ya que están impulsadas por las fuerzas del mercado de la oferta y la demanda.
+    .mb-5.p-4.py-xl-5(style="background-color: #E5F0E0" data-aos="fade-left")
       .d-flex.flex-wrap.col-xl-10.mx-auto
         img.col-xl-4.m-auto.mb-4.mb-xl-0(src="@/assets/curso/temas/tema4/img-1.png" style="max-width: 300px")
         p.mb-0.col-xl-8.ps-xl-4 Los factores económicos incluyen las políticas económicas de un gobierno, las balanzas comerciales, la inflación y las perspectivas de crecimiento económico.
@@ -19,7 +19,7 @@
           br
           |El mercado de divisas es descentralizado y extrabursátil donde se realizan todas las operaciones de cambio de divisas. Es el mercado más grande (en términos de volumen de negociación) y el más líquido del mundo.
     
-    p.mb-5 Los centros comerciales más destacados del mercado de divisas están ubicados en los principales centros financieros de todo el mundo, incluidos Nueva York, Londres, Frankfurt, Tokio, Hong Kong y Sydney. Por esta razón, las transacciones de divisas se realizan las 24 horas, los cinco días de la semana (excepto los fines de semana).
+    p.mb-5(data-aos="fade-right") Los centros comerciales más destacados del mercado de divisas están ubicados en los principales centros financieros de todo el mundo, incluidos Nueva York, Londres, Frankfurt, Tokio, Hong Kong y Sydney. Por esta razón, las transacciones de divisas se realizan las 24 horas, los cinco días de la semana (excepto los fines de semana).
       br
       br
       |El siguiente video permitirá conocer un poco más acerca de la temática de divisas.
@@ -32,7 +32,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_4_1 4.1 Características 
 
-    p.mb-5 La mayoría de las transacciones de divisas no se realiza con el propósito de intercambiar divisas (como lo haría en un cambio de divisas mientras viaja), sino para especular sobre futuros movimientos de precios, como lo haría con el comercio de acciones. 
+    p.mb-5(data-aos="fade-right") La mayoría de las transacciones de divisas no se realiza con el propósito de intercambiar divisas (como lo haría en un cambio de divisas mientras viaja), sino para especular sobre futuros movimientos de precios, como lo haría con el comercio de acciones. 
       br
       br
       |Al igual que los comerciantes de acciones, los comerciantes de divisas intentan comprar divisas cuyos valores creen que aumentarán en relación con otras divisas o deshacerse de divisas cuyo poder adquisitivo anticipan que disminuirá.
@@ -62,7 +62,7 @@
             p De manera similar, los comerciantes pueden optar por un contrato estandarizado para comprar o vender una cantidad predeterminada de una divisa a un tipo de cambio específico en una fecha futura. Esto se hace en una bolsa en lugar de en forma privada, como el mercado a plazo.
 
     h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Rie]sgos de operar en Forex
-    p.mb-5 Debido a que el comercio de divisas requiere apalancamiento y los comerciantes usan margen, existen riesgos adicionales para el comercio de divisas que otros tipos de activos. Los precios de las divisas fluctúan constantemente, pero en cantidades muy pequeñas, lo que significa que los operadores deben ejecutar operaciones grandes (usando apalancamiento) para ganar dinero.
+    p.mb-5(data-aos="fade-right") Debido a que el comercio de divisas requiere apalancamiento y los comerciantes usan margen, existen riesgos adicionales para el comercio de divisas que otros tipos de activos. Los precios de las divisas fluctúan constantemente, pero en cantidades muy pequeñas, lo que significa que los operadores deben ejecutar operaciones grandes (usando apalancamiento) para ganar dinero.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.col-xl-10.mx-auto.mb-5
       .bloque-texto-g__img(
@@ -72,35 +72,35 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
         p.mb-0 Este apalancamiento es excelente si un comerciante hace una apuesta ganadora, porque puede aumentar las ganancias. Sin embargo, también puede magnificar las pérdidas, incluso superando la cantidad inicial prestada. Además, si el valor de una moneda cae demasiado, los usuarios de apalancamiento se exponen a llamadas de margen, lo que puede obligarlos a vender sus valores comprados con fondos prestados con pérdidas. Aparte de las posibles pérdidas, los costos de transacción también pueden sumar y posiblemente afectar lo que fue una operación rentable.
 
-    p.mb-5 Además de todo eso, debe tener en cuenta que aquellos que comercian con divisas extranjeras son pequeños peces que nadan en un estanque de comerciantes profesionales y calificados y la Comisión de Bolsa y Valores advierte sobre posibles fraudes o información que podría ser confusa para los nuevos comerciantes.
+    p.mb-5(data-aos="fade-right") Además de todo eso, debe tener en cuenta que aquellos que comercian con divisas extranjeras son pequeños peces que nadan en un estanque de comerciantes profesionales y calificados y la Comisión de Bolsa y Valores advierte sobre posibles fraudes o información que podría ser confusa para los nuevos comerciantes.
       br
       br
       |Quizá sea bueno que el comercio de divisas no sea tan común entre los inversores individuales. De hecho, el comercio minorista (también conocido como el comercio por parte de no profesionales) representa solo el 5,5% de todo el mercado global, según muestran las cifras de DailyForex, y algunos de los principales corredores en línea ni siquiera ofrecen el comercio de divisas. Además, de los pocos comerciantes minoristas que participan en el comercio de divisas, la mayoría lucha por obtener ganancias con Forex. 
 
     .d-flex.flex-wrap.mb-5.w-100
-      img.col-xl-2.mt-auto.d-none.d-xl-flex(src='@/assets/curso/temas/tema4/img-6.svg' style="max-width: 190px;")
+      img.col-xl-2.mt-auto.d-none.d-xl-flex(src='@/assets/curso/temas/tema4/img-6.svg' style="max-width: 190px;" data-aos="fade-right")
       .col-12.col-xl-8.px-xl-3
-        .d-flex.justify-content-between.align-items-center(style="background: linear-gradient(0deg, #FFF, #FFECDC;")
+        .d-flex.justify-content-between.align-items-center(style="background: linear-gradient(0deg, #FFF, #FFECDC;" data-aos="fade-right")
           img.mb-2(src='@/assets/curso/temas/tema4/decorador.svg' style="transform: rotate(180deg); max-width: 49px;")
           p.text-center.mb-0 Pero, ¿por qué el comercio de divisas es importante para los consumidores promedio?
           img.mb-2(src='@/assets/curso/temas/tema4/decorador.svg' style="max-width: 49px;")
-        .d-flex.flex-wrap(style="background-color: #F6F6F6")
+        .d-flex.flex-wrap(style="background-color: #F6F6F6" data-aos="fade-left")
           .col-md-6.d-flex.flex-wrap
             p.p-3.w-100.text-center.mb-0.fw-bold(style="background-color: #B0C710; max-height: 56px") Beneficio 1
             p.d-flex.p-4.p-xl-5.mb-0 Si bien el inversionista promedio probablemente no debería incursionar en el mercado de divisas, lo que sucede allí afecta a todos. La actividad en tiempo real en el mercado al contado afectará la cantidad que pagamos por las exportaciones junto con cuánto cuesta viajar al extranjero.
           .col-md-6.d-flex.flex-wrap
             p.p-3.w-100.text-center.mb-0.fw-bold(style="background-color: #B0C710; max-height: 56px") Beneficio 2
             p.d-flex.h-auto.p-4.p-xl-5.mb-0(style="border-left: 2px solid #AFAFAF") Si el valor del dólar estadounidense se fortalece en relación con el euro, por ejemplo, será más barato viajar al extranjero (los dólares estadounidenses pueden comprar más euros) y comprar bienes importados (desde automóviles hasta ropa). Por otro lado, cuando el dólar se debilite, será más costoso viajar al exterior e importar bienes (pero las empresas que exportan bienes al exterior se beneficiarán).
-      img.col-xl-2.mt-auto.d-none.d-xl-flex(src='@/assets/curso/temas/tema4/img-7.svg' style="max-width: 190px;")
+      img.col-xl-2.mt-auto.d-none.d-xl-flex(src='@/assets/curso/temas/tema4/img-7.svg' style="max-width: 190px;" data-aos="fade-left")
 
     Separador
 
     .titulo-segundo.color-acento-contenido
       h2#t_4_2 4.2 Tipos de cambio
 
-    p.mb-5 Cada mercado tiene su propio idioma. Las siguientes, son palabras que se deben conocer antes de participar en el comercio de divisas.
+    p.mb-5(data-aos="fade-right") Cada mercado tiene su propio idioma. Las siguientes, son palabras que se deben conocer antes de participar en el comercio de divisas.
 
-    .d-flex.flex-wrap.mb-5.col-xl-10.mx-auto.px-4
+    .d-flex.flex-wrap.mb-5.col-xl-10.mx-auto.px-4(data-aos="fade-left")
       .w-100.d-flex.align-items-center.py-3(style="border-top: 2px solid #529D2E; border-bottom: 2px solid #529D2E;")
         img(src='@/assets/curso/temas/tema4/t-1.svg' style="max-width: 71px; margin-left: -35px")
         p.ps-4.mb-0 #[b Par de divisas.] Todas las operaciones de Forex implican un par de divisas. Además de las grandes, también existen operaciones menos comunes (como las exóticas, que son monedas de países en desarrollo).
@@ -121,9 +121,9 @@
         img(src='@/assets/curso/temas/tema4/t-5.svg' style="max-width: 71px; margin-left: -35px")
         p.ps-4.mb-0 #[b Margen.] Sin embargo, operar con apalancamiento no es gratis. Los comerciantes deben depositar algo de dinero por adelantado como depósito, o lo que se conoce como margen.
 
-    p.mb-5 Lo que mueve el mercado Forex, como cualquier otro mercado, los precios de las divisas se establecen por la oferta y la demanda de vendedores y compradores. Sin embargo, hay otras fuerzas macro en juego en este mercado. La demanda de monedas particulares también puede verse influenciada por las tasas de interés, la política del banco central, el ritmo de crecimiento económico y el entorno político del país en cuestión.
+    p.mb-5(data-aos="fade-right") Lo que mueve el mercado Forex, como cualquier otro mercado, los precios de las divisas se establecen por la oferta y la demanda de vendedores y compradores. Sin embargo, hay otras fuerzas macro en juego en este mercado. La demanda de monedas particulares también puede verse influenciada por las tasas de interés, la política del banco central, el ritmo de crecimiento económico y el entorno político del país en cuestión.
 
-    .col-xl-10.d-flex.flex-wrap.align-items-center.mx-auto.mb-5(style="background-color: #FFECDC; border-top-right-radius: 47px")
+    .col-xl-10.d-flex.flex-wrap.align-items-center.mx-auto.mb-5(style="background-color: #FFECDC; border-top-right-radius: 47px" data-aos="fade-left")
       p.mb-0.col-lg-9.col-xl-10.p-4.order-2.order-lg-1 El mercado de divisas está abierto las 24 horas del día, los cinco días de la semana (lunes-viernes), lo que brinda a los operadores de este mercado la oportunidad de reaccionar ante noticias que podrían no afectar el mercado de valores hasta mucho más tarde. Debido a que gran parte del comercio de divisas se centra en la especulación o la cobertura, es importante que los operadores estén al tanto de la dinámica que podría causar fuertes picos en las divisas.
       img.col-lg-3.col-xl-2.order-1.order-lg-2.mx-auto(src="@/assets/curso/temas/tema4/img-8.svg" style="max-width: 190px")
 
@@ -132,18 +132,18 @@
     .titulo-segundo.color-acento-contenido
       h2#t_4_3 4.3 Siglas
 
-    p.mb-5 Actualmente hay 180 monedas diferentes reconocidas en todo el mundo, por lo que identificarlas en función de sus abreviaturas de tres letras es importante al realizar operaciones comerciales a nivel internacional, especialmente para las empresas que aceptan pagos en monedas locales.
+    p.mb-5(data-aos="fade-right") Actualmente hay 180 monedas diferentes reconocidas en todo el mundo, por lo que identificarlas en función de sus abreviaturas de tres letras es importante al realizar operaciones comerciales a nivel internacional, especialmente para las empresas que aceptan pagos en monedas locales.
       br
       br
       |Todas las monedas se presentan como siglas de tres letras. Las dos primeras letras se refieren al nombre del país, mientras que la tercera letra se refiere a la moneda. Por ejemplo, la abreviatura de la moneda estadounidense es USD, es decir, dólar estadounidense
 
-    .bloque-texto-c.color-secundario.p-4.col-lg-10.col-xl-8.mx-auto.order-2.order-lg-1.mb-5(style="background-color: #E5F0E0")
+    .bloque-texto-c.color-secundario.p-4.col-lg-10.col-xl-8.mx-auto.order-2.order-lg-1.mb-5(style="background-color: #E5F0E0" data-aos="fade-left")
       i.fas.fa-quote-right
       p.mb-0 Tenga en cuenta que algunos países aceptarán varias monedas, especialmente en el mundo en desarrollo. En Georgia, por ejemplo, la moneda es el lari georgiano o GEL, pero el comercio se puede realizar en dólares estadounidenses #[b (USD)] y ocasionalmente en euros #[b (EUR).]
 
-    p.mb-5 El USD es en realidad la moneda de reserva mundial, por lo que a menudo se usa como moneda predeterminada en el caso de que una moneda local sea débil o inestable. A continuación, se muestra la divisa utilizada actualmente por algunos países. 
+    p.mb-5(data-aos="fade-right") El USD es en realidad la moneda de reserva mundial, por lo que a menudo se usa como moneda predeterminada en el caso de que una moneda local sea débil o inestable. A continuación, se muestra la divisa utilizada actualmente por algunos países. 
 
-    .col-xl-10.mx-auto
+    .col-xl-10.mx-auto(data-aos="fade-right")
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
         h5 Tabla 1
         span Monedas países.

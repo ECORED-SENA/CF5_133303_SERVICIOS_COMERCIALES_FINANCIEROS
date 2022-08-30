@@ -228,32 +228,107 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Comercio internacional',
+      referencia:
+        'Econosublime. (2021). <em>El comercio internacional: factores explicativos.</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=a-9OhTOJVEA',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Contabilidad bancaria',
+      referencia:
+        'Gómez, L., D. R. (s. f.). <em>Introducción a la gestión financiera: el ámbito internacional versus nacional.</em>',
+      tipo: 'Documento',
+      descarga:
+        'https://www.ugr.es/~rgomezl/documentos/publiclibros/Gestion-Financ/GestionFinanciera.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Caja',
+      significado:
+        'elemento donde se consolidan y se implementan los recursos en efectivo, ya sean cheques, monedas o billetes.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Contabilidad',
+      significado:
+        'sistema que enmarca la actividad contable referente a los movimientos en cuanto ingresos, gastos, costos que se generan en el ejercicio del objeto social de una organización.',
+    },
+    {
+      termino: 'Comercio Internacional',
+      significado:
+        'sistema de intercambio de diversas acciones que realizan los países en la cual se negocian bienes o servicios con el fin de satisfacer las necesidades de cada uno.',
+    },
+    {
+      termino: 'Divisas',
+      significado:
+        'conversión de una moneda a otra a una tasa específica conocida como tasa de cambio de divisas.',
+    },
+    {
+      termino: 'Entidad financiera',
+      significado:
+        'organización bancaria que su objeto se basa en la administración de la moneda o todo elemento que esté vinculado con el sector financiero.',
+    },
+    {
+      termino: 'Manual de procesos',
+      significado:
+        'instrumentos administrativos que fortalece cualquier proceso al cual se haya realizado específicamente, donde se indican las maneras y formas de realizarse alguna actividad determinada.',
+    },
+    {
+      termino: 'Medios de pago',
+      significado:
+        'diversas herramientas que permiten adquirir algún producto o servicio pueden ser físicos o digitales.',
+    },
+    {
+      termino: '<em>Software</em> contable',
+      significado:
+        'herramienta de apoyo tecnológico al ejercicio de la contabilidad, que fortalece los procedimientos internos y son requerimiento normativo para algunas empresas.',
+    },
+    {
+      termino: 'Transacciones',
+      significado:
+        'operaciones generales que se desarrollan en un sistema financiero ya sea bancario o en efectivo.',
+    },
+    {
+      termino: 'Recaudo',
+      significado:
+        'acción de acopio de recursos donde se recopilan por cierto tiempo hasta que se requieran para cumplir con una obligación específica.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Dirección de Impuestos y Aduanas Nacionales DIAN. (s.f.). <em>Gravamen a los movimientos financieros.</em>',
+      link:
+        'https://www.dian.gov.co/impuestos/personas/Paginas/gravamen_movimientos_financieros.aspx#:~:text=El%20Gravamen%20a%20los%20Movimientos,por%20los%20usuarios%20del%20sistema',
+    },
+    {
+      referencia:
+        'Gestiopolis. (2009). <em>Administración del efectivo. Qué es, importancia y función en la empresa.</em>',
+      link:
+        'https://www.gestiopolis.com/administracion-del-efectivo-y-contabilidad-administrativa/',
+    },
+    {
+      referencia:
+        'Marichal, C., y Gambi, C. (2017). <em>Historia bancaria y monetaria de América Latina (siglos XIX y XX): Nuevas perspectivas.</em> Editorial de la Universidad de Cantabria.',
       link: '',
+    },
+    {
+      referencia:
+        'Moreno, F., J. A. (2014). Contabilidad básica. 4a. Ed. Patria.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pardo, L., F. J. (2003). <em>Medios de cobro y pago en el comercio internacional.</em>',
+      link:
+        'https://www.agapea.com/libros/Medios-de-cobro-y-pago-en-el-comercio-internacional-9788479087685-i.htm',
+    },
+    {
+      referencia:
+        'Van Horne, J. C., y Wachowicz, Jr. J. (2002). Fundamentos de administración financiera. Pearson Education.',
+      link:
+        'https://catedrafinancierags.files.wordpress.com/2014/09/fundamentos-de-administracion-financiera-13-van-horne.pdf',
     },
   ],
   creditos: {
@@ -292,7 +367,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhon Edinson Castañeda Oviedo',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
