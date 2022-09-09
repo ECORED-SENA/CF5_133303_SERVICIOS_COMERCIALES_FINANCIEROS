@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span.texto-blanco 3
+        span.texto-blanco 5
       h1 Contabilidad bancaria
 
     p.mb-5(data-aos="fade-right") Todos los años los bancos deben producir cuentas legales que expongan todo lo que tiene la empresa. El propósito principal de la contabilidad financiera es preparar informes financieros que brinden información sobre el desempeño del banco a partes externas como inversionistas, acreedores, autoridades fiscales y más. La contabilidad gerencial contrasta con la contabilidad financiera en que la contabilidad gerencial es para la toma de decisiones internas y no tiene que seguir ninguna regla emitida por los organismos normativos. La contabilidad financiera, por otro lado, se realiza de acuerdo con las pautas de los Principios de Contabilidad Generalmente Aceptados.
@@ -102,12 +102,12 @@
     .d-flex.flex-wrap.edit-bg(data-aos="fade-left")
       img.mb-5.position-relative(src="@/assets/curso/temas/tema5/img-6.jpg" style="z-index: 1")
       .d-flex.flex-wrap.position-relative(style="z-index: 1")
-        .col-xl-6
+        .col-xl-6.px-xl-4
           p Por tanto, es de importancia establecer controles internos para manejar el efectivo y los cheques que se reciben, la implementación de controles internos para garantizar que una organización alcance los objetivos de la manera más eficaz y eficiente posible.
             br
             br
             |Una transacción en efectivo implica el intercambio de efectivo por un activo. Debido a que el intercambio es inmediato, el vendedor no asume ningún riesgo crediticio de que el comprador no pague, como sería el caso si se le concediera un crédito al comprador. Las transacciones en efectivo son más comunes para transacciones minoristas más pequeñas.
-        .col-xl-6
+        .col-xl-6.px-xl-4
           p Las transacciones en efectivo difieren sustancialmente de las transacciones de crédito, en las que hay un retraso en el pago integrado en una transacción, mientras que este es un riesgo siempre presente cuando se utilizan transacciones de crédito en su lugar.
             br
             br
@@ -123,8 +123,8 @@
       br
       |La única salida es hacer entradas adicionales que indiquen un cambio en el valor de la factura original y proporcionar un documento para una prueba más del valor real de la venta realizada. Estos documentos se denominan notas de crédito y débito; se invita a conocer sus características a continuación:
 
-    .d-flex.flex-wrap.mb-5.w-100
-      .card-left.p-4.p-xl-5(data-aos="fade-right")
+    .d-flex.flex-wrap.mb-5
+      .card-left.p-4.p-xl-5.col-lg-6(data-aos="fade-right")
         img.mb-5.mx-auto(src='@/assets/curso/temas/tema5/img-7.svg' style="max-width: 180px;")
         h2.text-center.mb-5 Nota crédito
         p.mb-4.px-lg-5.mx-xl-5 Es un documento emitido por el vendedor para indicar una devolución total o parcial de los fondos. Puede surgir en caso de suministro incorrecto o dañado de bienes, cancelación de una compra o error en la factura. 
@@ -141,9 +141,9 @@
               </g>
             </svg>
             
-      .card-right.p-4.p-xl-5(data-aos="fade-left")
+      .card-right.p-4.p-xl-5.col-lg-6(data-aos="fade-left")
         img.mb-5.mx-auto(src='@/assets/curso/temas/tema5/img-8.svg' style="max-width: 180px;")
-        h2.text-center.mb-5 Nota dsébito
+        h2.text-center.mb-5 Nota débito
         p.mb-4.px-lg-5.mx-xl-5 Es un documento que se emite de un comprador a un vendedor que indica una solicitud de devolución de fondos como resultado de bienes o servicios incorrectos o dañados o la cancelación de la compra. 
           br
           br
@@ -287,12 +287,12 @@ export default {
   border-top-left-radius: 20px
   border-bottom-left-radius: 20px
   background-color: #E5F0E0
-  width: 50%
+  width: 50% !important
 .card-right
   border-top-right-radius: 20px
   border-bottom-right-radius: 20px
   background-color: #FFECDC
-  width: 50%
+  width: 50% !important
 @media (max-width: 991px)
   .card-left
     border-top-right-radius: 20px

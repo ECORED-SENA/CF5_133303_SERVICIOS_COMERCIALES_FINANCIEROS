@@ -11,7 +11,7 @@
     p.mb-5 Se debe resaltar que el crecimiento y desarrollo constante trajo la revolución digital al campo económico, social y cultural. Este desarrollo tecnológico cambió los métodos y formas de realizar las tareas en el ámbito de las transacciones y actividades contables a través del uso de medios electrónicos, por lo que la contabilidad electrónica es un nuevo desarrollo en el campo de la contabilidad adoptado en el nivel internacional. 
 
     .d-flex.flex-wrap.p-4.pt-xl-0.pb-xl-4.ps-xl-5.pe-xl-0.mb-5(style="background-color: #F3F7DB; border-top-right-radius: 83px")
-      p.mb-0.col-xl-7.pt-xl-4.ms-auto.order-2.order-xl-1 En consecuencia, los documentos fuente y los registros contables existen en forma digital como reemplazo o alternativa del uso de papel en un sistema de contabilidad electrónica que ayuda a las empresas a mantener sus datos financieros y su software de contabilidad en un entorno seguro y protegido, permitiendo el acceso en tiempo real a usuarios autorizados independientemente de su ubicación o plataformas informáticas. 
+      p.mb-0.col-xl-7.pt-xl-4.ms-auto.order-2.order-xl-1 En consecuencia, los documentos fuente y los registros contables existen en forma digital como reemplazo o alternativa del uso de papel en un sistema de contabilidad electrónica que ayuda a las empresas a mantener sus datos financieros y su #[em software] de contabilidad en un entorno seguro y protegido, permitiendo el acceso en tiempo real a usuarios autorizados independientemente de su ubicación o plataformas informáticas. 
         br
         br
         |Este componente de formación brinda luces sobre el impacto de la contabilidad electrónica en los negocios modernos igualmente el manejo y movimiento de las divisas estableciendo estrategias de pago y negociación que se implementan en el ámbito internacional y que brindan seguridad y protección de los recursos fortaleciendo los objetivos expansivos de la organización.
@@ -20,7 +20,7 @@
 
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/KNOzOnibM6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>

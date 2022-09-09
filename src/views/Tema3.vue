@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
+        span.text-white 3
       h1 Comercio internacional
     
     img.mb-5(src="@/assets/curso/temas/tema3/img-1.jpg" data-aos="fade-right")

@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span.texto-blanco 6
       h1 #[em Software] de efectivo
-    p.mb-5(data-aos="fade-right") El #[em software] de gestión de efectivo sobre todo proporciona una vista del efectivo disponible; en otras palabras, puede verificar si una empresa tiene suficiente dinero para cumplir con sus compromisos a corto plazo y tal vez aumentar sus recursos previstos para mitigar el riesgo de enfrentar una escasez de efectivo. Por lo tanto, el software de gestión de efectivo proporciona información en tiempo real sobre los recursos disponibles para que pueda anticipar los requisitos de capital de trabajo (más de una semana, un mes, seis meses, un año) y administrar el negocio de manera óptima. #[b ¡El #[em software] de gestión de efectivo es, por lo tanto, una verdadera herramienta de toma de decisiones!]
+    p.mb-5(data-aos="fade-right") El #[em software] de gestión de efectivo sobre todo proporciona una vista del efectivo disponible; en otras palabras, puede verificar si una empresa tiene suficiente dinero para cumplir con sus compromisos a corto plazo y tal vez aumentar sus recursos previstos para mitigar el riesgo de enfrentar una escasez de efectivo. Por lo tanto, el #[em software] de gestión de efectivo proporciona información en tiempo real sobre los recursos disponibles para que pueda anticipar los requisitos de capital de trabajo (más de una semana, un mes, seis meses, un año) y administrar el negocio de manera óptima. #[b ¡El #[em software] de gestión de efectivo es, por lo tanto, una verdadera herramienta de toma de decisiones!]
 
     .d-flex.flex-wrap.align-items-center.mx-auto.mb-5(style="background-color: #F3F7DB; border-top-right-radius: 112px")
       img.col-xl-4.mb-4.mb-xl-0.m-auto(src="@/assets/curso/temas/tema6/img-1.png" data-aos="fade-right" style="max-width: 400px")
@@ -19,15 +19,15 @@
     
     p.mb-5(data-aos="fade-right") Excel es una gran herramienta para preparar un plan de negocios y pronosticar costos e ingresos antes de iniciar un negocio. Pero, una vez que está en funcionamiento, pronto comienza a mostrar sus límites. Esta hoja de cálculo es una fuente de errores recurrentes, principalmente, porque es compleja, lleva mucho tiempo y es estresante de construir. A menudo es difícil hacerlo legible y desarrollar una visión consolidada de su negocio manteniendo el nivel de detalle que necesita para administrar su empresa con confianza.
 
-    h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Ca]racterísticas del software de gestión de efectivo
-    p.mb-5(data-aos="fade-right") Aquí se menciona una lista de características que se deben tener en cuenta para la elección del software de administración de efectivo:
+    h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Ca]racterísticas del #[em software] de gestión de efectivo
+    p.mb-5(data-aos="fade-right") Aquí se menciona una lista de características que se deben tener en cuenta para la elección del #[em software] de administración de efectivo:
 
     .d-flex.flex-wrap.mb-5.w-100
-      .card-left.p-4.p-xl-5(data-aos="fade-right")
+      .card-left-t.p-4.p-xl-5(data-aos="fade-right")
         img.mb-4.mx-auto(src='@/assets/curso/temas/tema6/img-2.svg' style="max-width: 68px;")
         p.mb-4 #[b Seguimiento de entradas y salidas, donde y cuando sea necesario]
           br
-          |El software de gestión de efectivo debería permitir ver los flujos de efectivo reales y tener información en tiempo real dondequiera que se esté. 
+          |El #[em software] de gestión de efectivo debería permitir ver los flujos de efectivo reales y tener información en tiempo real dondequiera que se esté. 
 
       .card-midle.p-4.p-xl-5(data-aos="fade")
         img.mb-4.mx-auto(src='@/assets/curso/temas/tema6/img-3.svg' style="max-width: 68px;")
@@ -35,7 +35,7 @@
           br
           |Para administrar la posición de efectivo, se debe poder controlar las condiciones de pago y el sobregiro bancario. Un sistema de alertas cuidadosamente configurado permitirá tomar medidas preventivas a tiempo para evitar problemas.
 
-      .card-right.p-4.p-xl-5(data-aos="fade-left")
+      .card-right-t.p-4.p-xl-5(data-aos="fade-left")
         img.mb-4.mx-auto(src='@/assets/curso/temas/tema6/img-4.svg' style="max-width: 68px;")
         p.mb-4 #[b Datos bancarios confiables]
           br
@@ -46,7 +46,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_6_1 6.1  Procedimientos de registro
 
-    p.mb-5(data-aos="fade-right") Cuando una empresa de desarrollo de software en Colombia proporciona software o aplicaciones a las empresas, primero deben registrarlos en la Oficina de Impuestos Internos de la DIAN antes de que puedan comenzar a usarlos oficialmente en sus operaciones. Por lo tanto, cualquier empresa de soluciones de software y los dueños de negocios deben conocer los siguientes procedimientos para solicitar autorización.
+    p.mb-5(data-aos="fade-right") Cuando una empresa de desarrollo de #[em software] en Colombia proporciona #[em software] o aplicaciones a las empresas, primero deben registrarlos en la Oficina de Impuestos Internos de la DIAN antes de que puedan comenzar a usarlos oficialmente en sus operaciones. Por lo tanto, cualquier empresa de soluciones de #[em software] y los dueños de negocios deben conocer los siguientes procedimientos para solicitar autorización.
 
     SlyderA.col-xl-10.mx-auto.tarjeta.slide-a-edit.p-3.p-md-4.mb-5(tipo="b" data-aos="fade-left")
       .d-flex.flex-wrap.align-items-center.col-xl-11.mx-auto
@@ -89,7 +89,7 @@
           ul.lista-ul--color.mb-4(data-aos="fade-left")
             li
               .mb-auto.mt-2.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
-              p.mb-0 Proporcionar el nombre de la aplicación y el software utilizado, incluido su desarrollo y base de datos.
+              p.mb-0 Proporcionar el nombre de la aplicación y el #[em software] utilizado, incluido su desarrollo y base de datos.
             li
               .mb-auto.mt-2.me-3(style="height: 11px; min-width: 11px; border-radius: 50%; background-color: #FC8116")
               p.mb-0 Detallar las funciones y características del #[em software] o aplicación.
@@ -110,7 +110,7 @@
             |En caso de tener empresas afiliadas o hermanas, franquiciados y sucursales. Otros requisitos incluyen una fotocopia del permiso emitido previamente para la empresa matriz o hermana o sucursal que utiliza el mismo #[em software] o sistema, si corresponde. 
             br
             br
-            |También debe incluir una certificación del Equipo de evaluación del sistema computarizado que evaluó su #[em software] o sistema de antemano.
+            |También debe incluir una certificación del equipo de evaluación del sistema computarizado que evaluó su #[em software] o sistema de antemano.
     Separador
 
     .titulo-segundo.color-acento-contenido
@@ -122,9 +122,9 @@
       |A continuación, se expone en qué consiste el cuadre en operaciones contables.
     .d-flex.flex-wrap.align-items-center
       LineaTiempoD.color-secundario.col-xl-8.order-2.order-xl-1.linea-t-edit.pe-xl-4(data-aos="fade-right")
-        p(numero="1" titulo="Praesent luctus") La parte de planificación de la contabilidad operativa utiliza las tendencias históricas de la empresa para predecir el rendimiento futuro. El contador operativo prepara informes reales de ingresos y gastos de los últimos períodos contables. Un análisis completo también puede requerir desgloses por departamento, proyecto o tipo de costo.
-        p(numero="2" titulo="Praesent luctus") Las actividades de dirección implican la supervisión de los empleados y cómo ayudan a la empresa a alcanzar sus objetivos financieros. Un gerente usa datos del contador operativo para manejar problemas de asignación de recursos, como establecer horarios de horas extra, transferir empleados entre departamentos y ordenar materias primas.
-        p(numero="3" titulo="Praesent luctus") En la fase de control, las actividades de la empresa se revisan y comparan con los planes originales. El contador preparará informes que muestren los números reales y las proyecciones de métricas clave. Según los objetivos de su empresa, estos informes pueden incluir presupuestos, rendimiento de fabricación o nuevos clientes adquiridos.
+        p(numero="1" titulo="Actividades de planificación") La parte de planificación de la contabilidad operativa utiliza las tendencias históricas de la empresa para predecir el rendimiento futuro. El contador operativo prepara informes reales de ingresos y gastos de los últimos períodos contables. Un análisis completo también puede requerir desgloses por departamento, proyecto o tipo de costo.
+        p(numero="2" titulo="Actividades de dirección") Las actividades de dirección implican la supervisión de los empleados y cómo ayudan a la empresa a alcanzar sus objetivos financieros. Un gerente usa datos del contador operativo para manejar problemas de asignación de recursos, como establecer horarios de horas extra, transferir empleados entre departamentos y ordenar materias primas.
+        p(numero="3" titulo="Actividades de control") En la fase de control, las actividades de la empresa se revisan y comparan con los planes originales. El contador preparará informes que muestren los números reales y las proyecciones de métricas clave. Según los objetivos de su empresa, estos informes pueden incluir presupuestos, rendimiento de fabricación o nuevos clientes adquiridos.
       img.order-1.order-xl-2.col-xl-4.mb-4.mb-xl-0.mx-auto(src='@/assets/curso/temas/tema6/img-9.svg' data-aos="fade-left" style="max-width: 400px")
 
     Separador
@@ -269,19 +269,19 @@ export default {
 </script>
 
 <style lang="sass">
-.card-left
+.card-left-t
   border-top-left-radius: 20px
   border-bottom-left-radius: 20px
   background-color: #FEC08A
-  width: 33.33%
+  width: 33.33% !important
 .card-midle
   background-color: #C2E8B0
-  width: 33.33%
-.card-right
+  width: 33.33% !important
+.card-right-t
   border-top-right-radius: 20px
   border-bottom-right-radius: 20px
   background-color: #FEE89F
-  width: 33.33%
+  width: 33.33% !important
 @media (max-width: 991px)
   .card-left
     border-top-right-radius: 20px
