@@ -46,7 +46,7 @@
           figure
             img(src='@/assets/curso/temas/tema1/img-5.png')
     
-    h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Int]egrar medios de pago colombianos
+    h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Los] pros y los contras de los diferentes tipos de pagos electrónicos
 
     p.mb-5(data-aos="fade-right") Debido a que cada negocio y proveedor es diferente, es muy poco probable que una organización use solo un método de pago electrónico en sus cuentas por pagar. A medida que una organización crece y sus procesos se vuelven más complejos, se vuelve cada vez más importante que la empresa no solo adopte los pagos electrónicos como una solución, sino que emplee cuentas por pagar integradas como solución. Por ello, es importante conocer los pro y contras de los pagos electrónicos que se muestran a continuación.
 
@@ -306,7 +306,7 @@
 
     .d-flex.flex-wrap.p-4.pt-xl-0.pb-xl-4.ps-xl-5.pe-xl-0.mb-5(style="background-color: #FFECDC; border-top-right-radius: 83px" data-aos="fade-right")
       .col-xl-8.pt-xl-4.ms-auto.order-2.order-xl-1
-        h3.mb-5(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Los] pros y los contras de los diferentes tipos de pagos electrónicos
+        h3.mb-5.mt-4(data-aos="fade-right") #[span.py-3(style="background-color: #FD963D") Int]egrar medios de pago colombianos
         p.mb-0 Las soluciones convencionales, como las tarjetas de crédito y la banca en línea, populares en los países con una estructura financiera desarrollada, aún no han llegado a la mayoría de la población. Los pagos por teléfono móvil, las opciones de prepago y los depósitos bancarios dominan el panorama.
           br
           br

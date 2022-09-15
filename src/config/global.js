@@ -341,10 +341,31 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'José Francisco Chará Carrero',
+        cargo: 'Experto Temático',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y Los Servicios.',
+      },
+      {
+        nombre: 'Caterine Bedoya Mejía',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Asesor Metodológico',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Responsable del equipo de Diseño Instruccional',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
     ],
     desarrolloProducto: [
