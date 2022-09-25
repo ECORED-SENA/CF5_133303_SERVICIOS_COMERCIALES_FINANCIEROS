@@ -214,11 +214,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      // {
-      //   icono: 'fas fa-download',
-      //   titulo: 'Descargar material',
-      //   download: 'downloads/material.zip',
-      // },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -239,7 +239,7 @@ export default {
       referencia:
         'Gómez, L., D. R. (s. f.). <em>Introducción a la gestión financiera: el ámbito internacional versus nacional.</em>',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.ugr.es/~rgomezl/documentos/publiclibros/Gestion-Financ/GestionFinanciera.pdf',
     },
   ],

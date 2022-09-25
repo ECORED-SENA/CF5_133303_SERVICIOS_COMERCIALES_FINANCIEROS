@@ -150,9 +150,9 @@
       
       .tabla-b.color-acento-contenido.mb-5
         .tabla-b__header.d-flex(style="background-color: #B0C710")
-          h4.col-4.text-center.mb-0 Niveles del lenguaje
-          h4.col-4.text-center.mb-0 Niveles del lenguaje
-          h4.col-4.text-center.mb-0 Niveles del lenguaje
+          h4.col-4.text-center.mb-0 País
+          h4.col-4.text-center.mb-0 Moneda
+          h4.col-4.text-center.mb-0 Sigla
         table
           tr.text-center
             th Alemania

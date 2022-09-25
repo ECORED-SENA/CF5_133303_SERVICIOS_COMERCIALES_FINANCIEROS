@@ -14,7 +14,7 @@
         p El #[em software] de contabilidad, por su parte, se utiliza especialmente, como su nombre indica, para la contabilidad, puede ser adaptado o desarrollado por la propia empresa o puede obtenerse de un proveedor, generalmente realiza tareas contables básicas, como la contabilidad de compras y ventas, extractos bancarios y tarjetas, activos fijos adquiridos o enajenados, asientos de fin de año y divulgaciones contables (balance, cuenta de resultados, etc.).
           br
           br
-          |La elección del #[em software] de gestión de efectivo es un paso importante en la gestión de un negocio, peropor qué se debería optar por un #[em software] de gestión de efectivo cuando ya se pueden hacer muchos cálculos con una hoja de Excel. 
+          |La elección del #[em software] de gestión de efectivo es un paso importante en la gestión de un negocio, pero por qué se debería optar por un #[em software] de gestión de efectivo cuando ya se pueden hacer muchos cálculos con una hoja de Excel. 
       img.d-none.d-xl-flex.col-xl-1.mb-auto(src="@/assets/curso/temas/tema6/decorador.svg" style="max-width: 82px")
     
     p.mb-5(data-aos="fade-right") Excel es una gran herramienta para preparar un plan de negocios y pronosticar costos e ingresos antes de iniciar un negocio. Pero, una vez que está en funcionamiento, pronto comienza a mostrar sus límites. Esta hoja de cálculo es una fuente de errores recurrentes, principalmente, porque es compleja, lleva mucho tiempo y es estresante de construir. A menudo es difícil hacerlo legible y desarrollar una visión consolidada de su negocio manteniendo el nivel de detalle que necesita para administrar su empresa con confianza.
@@ -170,7 +170,7 @@
       .py-4.py-md-5(titulo="Paso 3" :icono="require('@/assets/curso/temas/tema6/p-3.svg')")
         .row.p-4.p-xl-5
           p.fw-bold Publica el pago en el sistema de información
-          p La milla final de la aplicación de efectivo es publicar el pago en su Sistemas de información, lo que indica que la entrada de cuentas por cobrar ya no está abierta.
+          p La milla final de la aplicación de efectivo es publicar el pago en su Sistema de información, lo que indica que la entrada de cuentas por cobrar ya no está abierta.
             br
             br
             |Los procesos manuales de solicitud de efectivo a menudo implican alternar entre varias hojas de cálculo de Excel y su sistema de información, que no es la forma más eficiente de trabajar. Al hacer que el equipo actualice manualmente todas las entradas del sistema, también presenta más oportunidades de error.

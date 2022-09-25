@@ -90,7 +90,7 @@
     p.mb-5(data-aos="fade-right") Es así como las cuentas T en contabilidad representan el registro de los movimientos contables, lo cual consta del débito y del haber; en el momento en que se realiza el registro se debe diligenciar el código y nombre de la cuenta.
       br
       br
-      |Los registros contables se deben registrar por el sistema de doble partida, el cual busca un equilibrio en los movimientos contables, de acuerdo con las cuentas estas disminuyen o aumentan en él debe o haber; en él debe se registran todos los ingresos y el haber todas las salidas.
+      |Los registros contables se deben registrar por el sistema de doble partida, el cual busca un equilibrio en los movimientos contables, de acuerdo con las cuentas estas disminuyen o aumentan en el debe o haber; en él debe se registran todos los ingresos y el haber todas las salidas.
 
     Separador
 
@@ -118,7 +118,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_5_3 5.3  Notas débito y crédito 
 
-    p.mb-5(data-aos="fade-right") Es posible que se conozca bien el término factura o factura o lista de materiales. Una factura se utiliza para mantener un registro de las ventas. Entonces, qué pasa cuando hay un cambio en el valor de esas facturas. ¿Se editarán esas facturas? No tiene sentido hacerlo, pues ya se generó la factura y se registraron esas transacciones en el diario.
+    p.mb-5(data-aos="fade-right") Es posible que se conozca bien el término factura o lista de materiales. Una factura se utiliza para mantener un registro de las ventas. Entonces, qué pasa cuando hay un cambio en el valor de esas facturas. ¿Se editarán esas facturas? No tiene sentido hacerlo, pues ya se generó la factura y se registraron esas transacciones en el diario.
       br
       br
       |La única salida es hacer entradas adicionales que indiquen un cambio en el valor de la factura original y proporcionar un documento para una prueba más del valor real de la venta realizada. Estos documentos se denominan notas de crédito y débito; se invita a conocer sus características a continuación:
@@ -133,7 +133,7 @@
           |Este documento también puede ser utilizado por el cliente o comprador contra un pedido futuro.
         .col-sm-auto.d-flex.justify-content-center
           a.boton.color-acento-botones(@click="modal1 = true")
-            span.pe-3 Descargar
+            span(style="min-width: 80px").pe-3 Ver más
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 20">
               <g id="Grupo_156603" data-name="Grupo 156603" transform="translate(-518 -4522)">
                 <rect id="Rectángulo_44067" data-name="Rectángulo 44067" width="16" height="20" rx="2" transform="translate(518 4522)" fill="#12263f"/>
@@ -150,7 +150,7 @@
           |Una nota de débito se emite antes de que el proveedor pueda emitir una nota de crédito y actúa como una solicitud formal del comprador para emitir una nota de crédito.
         .col-sm-auto.d-flex.justify-content-center
           a.boton.color-acento-botones(@click="modal2 = true")
-            span.pe-3 Descargar
+            span(style="min-width: 80px").pe-3 Ver más
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 20">
               <g id="Grupo_156603" data-name="Grupo 156603" transform="translate(-518 -4522)">
                 <rect id="Rectángulo_44067" data-name="Rectángulo 44067" width="16" height="20" rx="2" transform="translate(518 4522)" fill="#12263f"/>
