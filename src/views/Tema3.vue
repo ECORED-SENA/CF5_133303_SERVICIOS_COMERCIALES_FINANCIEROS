@@ -21,7 +21,7 @@
                 br
                 |le enseñará cinco tipos principales de métodos de pago, lo invito a que lo consulte para que amplíe sus conocimientos en dicha temática.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('downloads/OKEst_Anexo3_Tipos_principalesde_metodos_de_pago.docx')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('downloads/OKEst_Anexo3_Tipos_principalesde_metodos_de_pago.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 </template>
